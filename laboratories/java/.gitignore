@@ -1,0 +1,10 @@
+**/.*
+**/~*
+**/*.swp
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.log
+**/dependency-reduced-pom.xml
+**/logs
+**/target

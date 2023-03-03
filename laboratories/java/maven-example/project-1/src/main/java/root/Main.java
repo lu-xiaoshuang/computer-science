@@ -20,13 +20,13 @@
 
 package root;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
 
 public class Main {
-    private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
+    //private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
 
     public static void main(String [] stringArray) {
-        LOGGER.info("all men must die.");
+        //LOGGER.info("all men must die.");
     }
 }
